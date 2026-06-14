@@ -83,5 +83,4 @@ Congratulations! You guessed the correct number!
 
 ## 👨‍💻 Author
 
-Your Name
 Yekambaram Srivarshini
